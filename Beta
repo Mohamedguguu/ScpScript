@@ -1,0 +1,4 @@
+Print("NOT OUT YET")
+Wait(1)
+Print("LOADING MAINCODE")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Mohamedguguu/ScpScript/main/MainCode"))()
