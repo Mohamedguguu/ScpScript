@@ -13,3 +13,6 @@ L = Toggle ESP
 X = Toggle X-Ray
 
 If you're the game owner and want this taken down, DM msbncdaynight2
+
+The script only works at
+https://www.roblox.com/games/134804564161823/NEW-SCP-096-Demonstration#!/game-instances
