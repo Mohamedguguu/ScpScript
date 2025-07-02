@@ -1,0 +1,2 @@
+# ScpScript
+Just a script
