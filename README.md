@@ -1,12 +1,15 @@
+Hey everyone, welcome to the SCP Script.
 
-Hi everyone welcome to scp script
+What does it do?
+It completely breaks SCP — permanently.
+Why did I do it? Just wanted to be the first to pull it off.
 
-What it can do break SCP FULLY forever
-why did i hack the game i just wanna be the first one to do it
+Controls:
 
-K key = Enable break scp
-L key = Enable esp
-X key = enable xray
+K = Break SCP
 
-if you are the owner of the game and you wnat it be taked down dm 
-msbncdaynight2
+L = Toggle ESP
+
+X = Toggle X-Ray
+
+If you're the game owner and want this taken down, DM msbncdaynight2
