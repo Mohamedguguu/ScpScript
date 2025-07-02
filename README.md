@@ -21,3 +21,5 @@ to use
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Mohamedguguu/ScpScript/main/MainCode"))() 
 
 My dms are opened
+Updates
+The code cant be execute at Studio sio no one patchs it
