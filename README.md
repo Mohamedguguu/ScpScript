@@ -10,7 +10,7 @@ K = Break SCP
 
 L = Toggle ESP
 
-X = Toggle X-Ray
+X = Unload
 ----------------------CONTROL096
 
 
