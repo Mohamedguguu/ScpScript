@@ -23,3 +23,5 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Mohamedguguu/ScpScrip
 My dms are opened
 Updates
 The code cant be execute at Studio sio no one patchs it
+
+The Script has been taked down by OWNER OF THE GAME himself
