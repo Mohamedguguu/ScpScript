@@ -32,3 +32,11 @@ Updates
 The code cant be execute at Studio so no one patchs it
 
 
+
+
+
+
+
+EVERY SCRIPT GOT PATCHED
+
+
