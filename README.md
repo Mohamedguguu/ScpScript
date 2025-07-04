@@ -12,8 +12,9 @@ L = Toggle ESP
 
 X = Unload
 ----------------------CONTROL096
-
-
+K = Control scp but enable it before he starts screaming and running
+x = Unload
+L = speed bypass
 ----------------------
 If you're the game owner and want this taken down again, DM msbncdaynight2
 
