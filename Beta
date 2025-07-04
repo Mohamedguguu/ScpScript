@@ -1,4 +1,5 @@
 Print("NOT OUT YET")
+StarterGui:SetCore("SendNotification",{Title="SCP Script Beta",Text="Not Out yet",Duration=5})
 Wait(1)
 Print("LOADING MAINCODE")
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Mohamedguguu/ScpScript/main/MainCode"))()
